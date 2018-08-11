@@ -1,6 +1,6 @@
 # CIKM18-LCVA
 Code for research paper:
-*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*. In CIKM 2018 (to appear).
+[*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*.](http://www.public.asu.edu/~rguo12/CIKM18.pdf) In CIKM 2018 (to appear).
 Vineeth Rakesh\*, Ruocheng Guo\*, Raha Moraffah, Nitin Agrawal, and Huan Liu. (\* equal contribution)
 
 Acknowledgement:
