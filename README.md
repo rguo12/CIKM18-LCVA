@@ -4,6 +4,16 @@ Vineeth Rakesh\*, Ruocheng Guo\*, Raha Moraffah, Nitin Agrawal, and Huan Liu. (\
 
 [*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*.](http://www.public.asu.edu/~rguo12/CIKM18.pdf)
 
+Please cite us via this bibtex if you use this code for further development or as a baseline method in your work:
+@inproceedings{rakesh2018linked,
+  title={Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects},
+  author={Rakesh, Vineeth and Guo, Ruocheng and Moraffah, Raha and Agarwal, Nitin and Liu, Huan},
+  booktitle={Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+  pages={1679--1682},
+  year={2018},
+  organization={ACM}
+}
+
 In this work, we consider spill-over effect between instances for learning causal effects from data.
 
 Acknowledgement:
