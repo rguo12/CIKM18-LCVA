@@ -1,4 +1,4 @@
-# CIKM18-LCVA
+# CIKM18-Linked Causal Variational Autoencoder
 Code for research paper:
 Vineeth Rakesh\*, Ruocheng Guo\*, Raha Moraffah, Nitin Agrawal, and Huan Liu. (\* equal contribution) CIKM'18
 
