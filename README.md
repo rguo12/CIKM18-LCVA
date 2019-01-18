@@ -1,6 +1,5 @@
 # CIKM18-Linked Causal Variational Autoencoder
 Code for research paper:
-Vineeth Rakesh\*, Ruocheng Guo\*, Raha Moraffah, Nitin Agrawal, and Huan Liu. (\* equal contribution) CIKM'18
 
 [*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*.](http://www.public.asu.edu/~rguo12/CIKM18.pdf)
 
