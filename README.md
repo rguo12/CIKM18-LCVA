@@ -1,7 +1,7 @@
 # CIKM18-Linked Causal Variational Autoencoder
 Code for research paper:
 
-[*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*.](http://www.public.asu.edu/~rguo12/CIKM18.pdf)
+[*Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects*.](https://arxiv.org/abs/1808.03333)
 
 Please cite us via this bibtex if you use this code for further development or as a baseline method in your work:
 ```
@@ -20,7 +20,7 @@ In this work, we consider spill-over effect between instances for learning causa
 ## Amazon dataset
 
 For the Amazon dataset we processed and used for the paper, please check out:
-[Download Amazon Dataset Here](https://drive.google.com/drive/folders/1Ff_GdfjhrDFbZiRW0z81lGJW-cUrYmo1?usp=sharing)
+[Download Amazon Dataset Here](https://www.dropbox.com/s/d69tj0xnu3zc9bo/Amazon-CIKM18.zip?dl=0)
 
 We will use the positive review dataset as an example. You will load data from **new_product_graph_pos.npz** and **AmazonItmFeatures_pos.csv**.
 
